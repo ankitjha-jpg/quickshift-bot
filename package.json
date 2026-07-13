@@ -1,0 +1,14 @@
+{
+  "name": "quickshift-pickup-assist",
+  "version": "0.2.0",
+  "description": "WhatsApp bot that helps registered customers book courier pickups",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5"
+  }
+}
